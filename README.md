@@ -10,7 +10,7 @@ The repository contains two examples (it will not work on the Windows OS).
 
 It is recommended to understand `semaphore_synchronization` before trying to understand `shared_memory`.
 
-## Sempahore synchronization
+## Semaphore synchronization
 You can run the program in the `semaphore_synchronization` folder using:
 
 ```
